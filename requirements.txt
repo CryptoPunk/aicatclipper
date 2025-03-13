@@ -1,0 +1,4 @@
+pyav
+opencv-python
+scenedetect
+ipykernel
